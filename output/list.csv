@@ -1,0 +1,571 @@
+firstName,lastName,orgSyncTitle,orgSyncEmail,orgSyncPhone,yalEmail,yalPhone,yalGradYear,onOrgSyncList,onYalList,onAllLists
+Nathan,Adams,Faculty Advisor,nathan.adams@gtri.gatech.edu,404-654-0462,nadams@gatech.edu,,2012,true,true,true
+Andrew,Brooks,,abrooks42@gatech.edu,,abrooks42@gatech.edu,,0,true,true,true
+Abigail,Cliche,,acliche3@gatech.edu,,abbie@clichehouse.net,,2020,true,true,true
+Matthew,Cover,2016 President,matthewncover@gatech.edu,,,,,true,false,false
+Stephen,Dumas,,sdumas3@gatech.edu,,stephendumas@gatech.edu,,2015,true,true,true
+Benjamin,Espy,,benespy@gatech.edu,,ben_espy_46@yahoo.com,,0,true,true,true
+Zachary,Ferson,,zferson3@gatech.edu,,zachary.ferson@yahoo.com,,0,true,true,true
+Jory,Folker,,jfolker10@gatech.edu,,,,,true,false,false
+Spencer,Frum,,sfrum@gatech.edu,,spencer.z.rum@gmail.com,,2019,true,true,true
+Zev,Greenberg,2016 Secretary,zevg@gatech.edu,,zevg@gatech.edu,,2016,true,true,true
+Phillip,Hardy,,phardy7@gatech.edu,,,,,true,false,false
+Maxwell,Hill,,maxwell.hill@gatech.edu,,maxwell.hill@gatech.edu,,0,true,true,true
+Rebecca,Hill,,rebeccabmhill@gatech.edu,,rebeccabmhill@gatech.edu,,2016,true,true,true
+Ryan,Jacobs,,ryanjacobs@gatech.edu,,rjacobs7@yahoo.com,,2018,true,true,true
+Jenny,Li,2016-2017 Outreach Director,jennyli@gatech.edu,,jli639@gatech.edu,(678) 232-5744,2019,true,true,true
+Orin,Lincoln,,orindlincoln@gatech.edu,,orindlincoln@gatech.edu,,2016,true,true,true
+Louis,Malice,,lmalice3@gatech.edu,,,,,true,false,false
+Caitlyn,McCord,,cmccord6@gatech.edu,,caitlynmccord@gmail.com,,2018,true,true,true
+Matthew,McMullen,,mmcmullen7@gatech.edu,,,,,true,false,false
+Jackson,Morgan,2017 President,jmorgan45@gatech.edu,,jaxoncreed@gmail.com,,0,true,true,true
+Khoa,Nguyen,,khoa.atl@gatech.edu,,,,,true,false,false
+Aaron,Orquia,,ajorquia@gatech.edu,,ajorquia@gmail.com,,2017,true,true,true
+Hamilton,Payne,,starsnbars@gatech.edu,,,,,true,false,false
+Joel,Pozin,2017 Secretary,jpozin3@gatech.edu,,joelpozin97@gmail.com,(770) 789-5904,2020,true,true,true
+Nicholas,Rahaim,2016 Treasurer,nrahaim3@gatech.edu,,nrahaim3@gmail.com,(513) 520-0482,2018,true,true,true
+Syed,Rameez,,abbasrameez@gatech.edu,,,,,true,false,false
+Nicholas,Riccardelli,2017 Treasurer,nicholas.riccardelli@gatech.edu,,,,,true,false,false
+Ziyuan,Wang,,zwang776@gatech.edu,,zwang776@gatech.edu,(404) 956-1252,2020,true,true,true
+Patrick,Bailey,,,,xlittlep@gmail.com,(404) 513-5938,2008,false,true,false
+Mary-Ann,Ionascu,,,,mionascu@gatech.edu,,0,false,true,false
+Hunter,Brennick,,,,hbrennick3@gatech.edu,,0,false,true,false
+Jack,Mansell,,,,jmansell3@gatech.edu,(678) 983-8522,2014,false,true,false
+yuon,kan,,,,ykan6@gatech.edu,(404) 446-5972,2015,false,true,false
+Matt,Waples,,,,mwaples6@gatech.edu,(770) 990-0644,2015,false,true,false
+Brian,Homans,,,,bhomans3@gatech.edu,(770) 330-8676,0,false,true,false
+Clifford,Tribble,,,,cliffordtribble@gmail.com,(770) 301-6784,2015,false,true,false
+Hale,Schwerin,,,,timotat@gatech.edu,,0,false,true,false
+Nicole,Mejias,,,,nmejias3@gatech.edu,(678) 438-1433,0,false,true,false
+Dylan,Williams,,,,dwilliams93@gatech.edu,(770) 570-0295,2015,false,true,false
+Gabe,Gattis,,,,gabegattis@gmail.com,(478) 230-4552,2015,false,true,false
+Luke,Ambrosetti,,,,luke.ambrosetti@gatech.edu,(423) 367-2597,2013,false,true,false
+Jihad,Kudsy,,,,jkudsy@yahoo.com,,0,false,true,false
+Emina,Dedic,,,,ededic@students.kennesaw.edu,,0,false,true,false
+Daniel,Valdez,,,,dvaldez3@gatech.edu,,0,false,true,false
+Blair,Smith,,,,blairsmith90@gmail.com,,0,false,true,false
+Sonya,Uddin,,,,suddin6@gatech.edu,,0,false,true,false
+Kyle,Jenkins,,,,kmjenkins12@yahoo.com,,0,false,true,false
+Michael,Kelly,,,,mkelly38@gatech.edu,,0,false,true,false
+T,Xu,,,,txu87@gatech.edu,,0,false,true,false
+Ilya,Gurevich,,,,igurevich3@gatech.edu,,0,false,true,false
+Allison,Stanford,,,,astanford7@gatech.edu,,2016,false,true,false
+Lisa,White,,,,lisawhite@gatech.edu,,0,false,true,false
+Thomas,Marion,,,,thomas.marion@gatech.edu,,0,false,true,false
+Sri,Dama,,,,sdama3@gatech.edu,,0,false,true,false
+Monica,Cahal,,,,mcahal3@gatech.edu,,0,false,true,false
+Maddy,Staines,,,,madison.staines@yahoo.com,(404) 313-8389,2015,false,true,false
+Bharat,Chandarasekhar,,,,negligible91@gmail.com,,2014,false,true,false
+Malvi,Jani,,,,mjani6@gatech.edu,,0,false,true,false
+Kagen,Wittbold,,,,kagenwittbold@gatech.edu,,0,false,true,false
+Angela,Villon,,,,avillon3@gatech.edu,,0,false,true,false
+Gillen,Heisler,,,,gheisler3@gatech.edu,,0,false,true,false
+Bradley,Smith,,,,brsmith110@gatech.edu,,0,false,true,false
+Haythem,Shata,,,,haythem@gatech.edu,,0,false,true,false
+Jacob,Amsbaugh,,,,jamsbaugh3@gatech.edu,,0,false,true,false
+Mary Kathryn,Briatta,,,,mbriatta3@gatech.edu,,0,false,true,false
+Shirin,Kale,,,,skale31@gatech.edu,,0,false,true,false
+Zary,Peretz,,,,zperetz3@gatech.edu,,0,false,true,false
+Peter,Wendel,,,,pwendel3@gatech.edu,,0,false,true,false
+Peter,Tang,,,,Petertang@gatech.edu,,2015,false,true,false
+Sourjya,Rudra,,,,srudra6@gatech.edu,,0,false,true,false
+Evan,Zinner,,,,ezinner3@gatech.edu,,0,false,true,false
+Seungwoo,Jung,,,,jung@gatech.edu,,0,false,true,false
+Rebecca,Oyler,,,,rmoyler826@gatech.edu,,0,false,true,false
+Katelyn,Perry,,,,kperry32@gatech.edu,,0,false,true,false
+Justin,Buchanan,,,,justbuchanan@gatech.edu,,0,false,true,false
+Trenton,Kilbey,,,,tkilbey3@gatech.edu,,0,false,true,false
+Christian,Doetsch,,,,cdoetsch@gatech.edu,,0,false,true,false
+Adam,Friedman,,,,afriedman9@gatech.edu,,0,false,true,false
+Austin,Jones,,,,austin.jones@gatech.edu,,0,false,true,false
+Bharat,Chandrasekhar,,,,bharat3@gatech.edu,,0,false,true,false
+Marc,Hayes,,,,mhayes32@gatech.edu,,0,false,true,false
+Amir,Maymay,,,,amaymay3@gatech.edu,,0,false,true,false
+Kyle,Yawn,,,,kyawn3@gatech.edu,(478) 973-2716,2013,false,true,false
+Kelliann,Morrisey,,,,kelli.morrisey@gatech.edu,,0,false,true,false
+Sarah,Markiewicz,,,,smarkiewicz3@gatech.edu,,0,false,true,false
+Anna,Berinhout,,,,aberinhout1@gmail.com,(404) 797-2452,2016,false,true,false
+Sam,Steele,,,,sam.steele527@gmail.com,(404) 326-5549,2016,false,true,false
+Mark,Augustyn,,,,maugustyn@yahoo.com,,0,false,true,false
+William,Derr,,,,will.derr@gmail.com,(973) 525-2527,2012,false,true,false
+Daniel,Shey,,,,daniel.shey@gmail.com,(404) 532-8215,2009,false,true,false
+Casey,Hubbard,,,,caseyh@gatech.edu,,0,false,true,false
+Susie,Machado,,,,esther.machado@gatech.edu,(678) 416-9026,2015,false,true,false
+Xan,Roseberry,,,,coyeroseberry@gmail.com,(423) 605-6915,2014,false,true,false
+Taylor,Dukes,,,,taylortipping@gmail.com,(706) 401-1609,2015,false,true,false
+Lindsay,Purcell,,,,lpurcell6@gatech.edu,,0,false,true,false
+Travis,Van Nimwegen,,,,travisv10@gatech.edu,,0,false,true,false
+Nathanael,Bates,,,,Nbates6@gatech.edu,,0,false,true,false
+Joseph,Rogero,,,,joerogero@comcast.net,(904) 540-9923,2015,false,true,false
+Anna,Frost,,,,annafrost.student@gmail.com,(404) 391-8723,2016,false,true,false
+Allie,Haydon,,,,alliethaydon@gmail.com,(404) 435-9155,2016,false,true,false
+Meet,Patel,,,,mpatel333@gatech.edu,,0,false,true,false
+Mike,Strain,,,,michael_strain@gatech.edu,(913) 505-9582,0,false,true,false
+Saran Anna,Cole,,,,scole321@gmail.com,(404) 421-5098,2013,false,true,false
+Welton,W,,,,weltonli@gatech.edu,,2014,false,true,false
+Will,Blackstock,,,,will.blackstock7@gmail.com,,2015,false,true,false
+Jefferson,Dixon,,,,jp.dixon@gatech.edu,,2016,false,true,false
+Colleen,Adam,,,,colleenadam922@gmail.com,,0,false,true,false
+Krista,Rhinehelmer,,,,kristarhineheimer@gmail.com,,2016,false,true,false
+Steven,Fullerton,,,,sfullerton27@yahoo.com,(770) 595-5731,0,false,true,false
+Yvonne,Ploder,,,,yvonne_ploder@gatech.edu,(678) 793-4284,0,false,true,false
+Eliah,Cappi,,,,ecappi3@gatech.edu,,0,false,true,false
+Kelly,Ann,,,,4ever.kellyan@gmail.com,,0,false,true,false
+Alex,Bandea,,,,abandea3@gatech.edu,,0,false,true,false
+Oscar,Alvarez,,,,abayaldeman@hotmail.com,,0,false,true,false
+Andrew,Blanchard,,,,ablanchard@gatech.edu,,0,false,true,false
+Alexsandra,Brandt,,,,abrandt7@gatech.edu,,0,false,true,false
+Amanda,Corley,,,,acorley3@students.kennesaw.edu,,0,false,true,false
+Adam,Szaruga,,,,adam.szaruga@gmail.com,,0,false,true,false
+Ashley,Allen,,,,adianeallen@gmail.com,,0,false,true,false
+Andrew,DiSalle,,,,adisalle3@gatech.edu,,0,false,true,false
+Alyssa,Fornek,,,,afornek3@gatech.edu,,0,false,true,false
+Andre,Giron,,,,agiron3@gatech.edu,,0,false,true,false
+Alex,Goldsmith,,,,agoldsmith7@gatech.edu,,0,false,true,false
+Anubhav,Jain,,,,ajain304@gatech.edu,,0,false,true,false
+Alfredo,Zavaleta,,,,ajavier_zavaleta@gatech.edu,,0,false,true,false
+Andrew,Conant,,,,ajcandrew@yahoo.com,,0,false,true,false
+Ally,Kramer,,,,akramer9@gatech.edu,,0,false,true,false
+Alan,Anderson,,,,alan.anderson@gmail.com,,0,false,true,false
+Ali,Awad,,,,ali.awad@gmail.com,,0,false,true,false
+Allan,Salinas,,,,allans2009@gmail.com,,0,false,true,false
+Bryan,Cheang,,,,alliamisyours@hotmail.com,,0,false,true,false
+Alvin,Alvin,,,,alvin0816@hotmail.com,,0,false,true,false
+Amber,Barnard,,,,amber.barnard@bobcats.gcsu.edu,,0,false,true,false
+Amelia,Berrien,,,,amelia.berrien.64@gmail.com,,0,false,true,false
+Austin,Milton,,,,amilton3@gatech.edu,,0,false,true,false
+Andre,Green,,,,andrewgreen1234@gmail.com,,0,false,true,false
+Angie,Lunsford,,,,angie_tidwell@att.net,,0,false,true,false
+Tran,Dao,,,,antoniangel@gatech.edu,,0,false,true,false
+Amit,Parekh,,,,aparekh3@gatech.edu,,0,false,true,false
+Ashikul,Islam,,,,ashikul.islam@gmail.com,,0,false,true,false
+Asim,Rahman,,,,asimrahman@gatech.edu,,0,false,true,false
+Arogya,Singh,,,,asingh96@gatech.edu,,0,false,true,false
+Aditya,Somani,,,,asomani11@gmail.com,,0,false,true,false
+Alexandra,Stafford,,,,astafford519@comcast.net,,0,false,true,false
+Arjun,Meka,,,,asuresh8@gmail.com,,0,false,true,false
+Anna,Tadsen,,,,atadsen3@gatech.edu,,0,false,true,false
+Atom,Raiff,,,,atom.raiff@gatech.edu,,0,false,true,false
+Amanda,Torie,,,,atorie3@gatech.edu,,0,false,true,false
+Allison,Wu,,,,awu34@gatech.edu,,0,false,true,false
+Kate,DeDivitis,,,,babyny118@aol.com,,0,false,true,false
+Brian,Drexler,,,,bdrexler3@gatech.edu,,0,false,true,false
+Bekah,Stewart,,,,bekah.stewart@hotmail.com,,0,false,true,false
+Ben,Fox,,,,ben.fox@live.com,,0,false,true,false
+Benjamin,Adair,,,,benadair@gatech.edu,,0,false,true,false
+Bailey,Ernstes,,,,bernstes3@gatech.edu,,0,false,true,false
+Bivas,Gelal,,,,bgelal6@gatech.edu,,0,false,true,false
+Brittany,Grimsley,,,,bgrimsle@students.kennesaw.edu,,0,false,true,false
+Mike,Bradley,,,,bigmike1324@hotmail.com,,0,false,true,false
+Blake,Fisher,,,,blakef92@yahoo.com,,0,false,true,false
+Andrew,Chanrasmi,,,,blakgundam@yahoo.com,,0,false,true,false
+Bradford,Medeiros,,,,bmedeiros6@gatech.edu,,0,false,true,false
+Brandon,Finke,,,,bmfinke@gmail.com,,0,false,true,false
+Breanna,Poteet,,,,bpoteet3@gatech.edu,,0,false,true,false
+Brian,Szabela,,,,brianszabela@gmail.com,,0,false,true,false
+Mary,Briatta,,,,briatta_33@yahoo.com,,0,false,true,false
+Brittany,Woods,,,,brittany.woods@go.warner.edu,,0,false,true,false
+Frances,Brown,,,,brown.f.frankie@gmail.com,,0,false,true,false
+Ben,Rupel,,,,brupel3@gatech.edu,,0,false,true,false
+Brandon,Smith,,,,bsmith93@gatech.edu,,0,false,true,false
+Bridget,Ulrich,,,,bulrich1@student.gsu.edu,,0,false,true,false
+Amber,Callaway,,,,callawayamber@gmail.com,,0,false,true,false
+Clay,Anderson,,,,canderson70@gatech.edu,,0,false,true,false
+Cane,Punma,,,,canepunma@gmail.com,,0,false,true,false
+Anne,Meadows,,,,cannemeadows@gmail.com,,0,false,true,false
+Chris,Antley,,,,cantley3@gatech.edu,,0,false,true,false
+Carlos,Alas,,,,carlogu29@yahoo.com,,0,false,true,false
+Edward,Dannemiller,,,,cashmoney365@gmail.com,,0,false,true,false
+Nick,Christie,,,,cchristie6@gatech.edu,,0,false,true,false
+Carson,Conway,,,,cconwayxp@gmail.com,,0,false,true,false
+Cam,Chatham,,,,ccredfox@gmail.com,,0,false,true,false
+Caitlin,Daugherty,,,,cdaugherty3@gatech.edu,,0,false,true,false
+Charles,Drexler,,,,cdrexler3@gatech.edu,,0,false,true,false
+Cam,Eller,,,,celler3@gatech.edu,,0,false,true,false
+Chad,Kersey,,,,chad@cdkersey.com,,0,false,true,false
+Chase,Brown,,,,chasebrown5@gmail.com,,0,false,true,false
+Chandan,Hebbale,,,,chebbale3@gatech.edu,,0,false,true,false
+Kimberly,Kong,,,,cheerfulsponge@yahoo.com,,0,false,true,false
+Courtney,Hegener,,,,chegener3@gatech.edu,,0,false,true,false
+Chelyan,McComas,,,,chelyan.mccomas@gmail.com,,0,false,true,false
+Chris,Cox,,,,chris.cox@gmail.com,,0,false,true,false
+Christen,Leifeld,,,,Christenleifeld@gmail.com,,0,false,true,false
+Christina,Kirkman,,,,christina.kirkman@gmail.com,,0,false,true,false
+Chris,Volo,,,,chrisvollo@gmail.com,,0,false,true,false
+Chayna,Johnson,,,,cjohnson78@gatech.edu,,0,false,true,false
+Clifton,Holliday,,,,clifton.holliday@yahoo.com,,0,false,true,false
+Clint,Garis,,,,clintgarris@yahoo.com,,0,false,true,false
+Clinton,Hodges,,,,clintrhodges@gmail.com,,0,false,true,false
+Caitlin,Murphy,,,,cmurphy38@gatech.edu,,0,false,true,false
+Nicole,Ward,,,,cnesw51189@yahoo.com,,0,false,true,false
+Colby,Helms,,,,colby.helms@gmail.com,,0,false,true,false
+Caleb,Purcell,,,,cpurcell3@gatech.edu,,0,false,true,false
+Christian,Redondo,,,,credondo3@gatech.edu,,0,false,true,false
+Chris,Roberts,,,,croberts1000@gmail.com,,0,false,true,false
+Colby,Veal,,,,crvl06@yahoo.com,,0,false,true,false
+Conrad,Rybka,,,,crybka3@gatech.edu,,0,false,true,false
+Christine,St. Jean,,,,csj12@gatech.edu,,0,false,true,false
+Connor,Stefan,,,,cstefan3@gatech.edu,,0,false,true,false
+Christopher,Taylor,,,,ctaylor9@gatech.edu,,0,false,true,false
+Anne Marie,Siegel,,,,curlycue3663@yahoo.com,,0,false,true,false
+Casey,White,,,,cwhite62@gatech.edu,,0,false,true,false
+Cory,Wacht,,,,cwwacht@aol.com,,0,false,true,false
+David,Andersen,,,,dandersen3@gatech.edu,,0,false,true,false
+Daniel,Blanchard,,,,daniel.blanchard3@yahoo.com,,0,false,true,false
+Daniel,Hall,,,,Daniel.hall@gatech.edu,,0,false,true,false
+Davis,Flowers,,,,davisflowers20@gmail.com,,0,false,true,false
+Willie,Lay,,,,davone_lay@yahoo.com,,0,false,true,false
+Dylan,Broxterman,,,,dbroxterman3@gatech.edu,,0,false,true,false
+Daniel,Crouch,,,,dcrouch@spsu.edu,,0,false,true,false
+Deba,Zeerok,,,,debaz_926@yahoo.com,,0,false,true,false
+Denise,Dale,,,,deniserdalesub@bellsouth.net,,0,false,true,false
+Andrew,Griffin,,,,describetheruckus@gmail.com,,0,false,true,false
+Danielle,Heady,,,,dheady3@gmail.com,,0,false,true,false
+David,Levinson,,,,dlevinson3@gatech.edu,,0,false,true,false
+Daniel,Marotti,,,,dmarotti3@gatech.edu,,0,false,true,false
+Samantha,Walker,,,,dragon.fire1792@yahoo.com,,0,false,true,false
+Daren,Roberts,,,,droberts33@gatech.edu,,0,false,true,false
+David R.,Patterson,,,,drpatterson@gatech.edu,,0,false,true,false
+Andrew,Meloan,,,,druidcifer@gmail.com,,0,false,true,false
+Dustin,Turner,,,,dturner2@ggc.edu,,0,false,true,false
+David,Estrada,,,,durbus.estrada@gmail.com,,0,false,true,false
+Dylan,Slack,,,,dylanslack@gmail.com,,0,false,true,false
+Erin,Kenworthy,,,,e.e.kenworthy@gmail.com,,0,false,true,false
+Liz,Gallagher,,,,egallagher6@gatech.edu,,0,false,true,false
+Erwin,Schemankewitz,,,,ehans89@gmail.com,,0,false,true,false
+Eric,McCaslin,,,,emccaslin3@gatech.edu,,0,false,true,false
+Erin,McNamara,,,,emcnamara21@gmail.com,,0,false,true,false
+Emily,Rahm,,,,emily.rahm@gatech.edu,,0,false,true,false
+Eric,Ahlstedt,,,,ericahlstedt@yahoo.com,,0,false,true,false
+Eric,Bruce,,,,ericdbruce03@yahoo.com,,0,false,true,false
+Erik,Brewer,,,,eriktbrewer@gmail.com,,0,false,true,false
+Hannah,Mabry,,,,farstrider89@gmail.com,,0,false,true,false
+Matt,Faunce,,,,fauncey52@yahoo.com,,0,false,true,false
+James Bell,James Bell,,,,gataxpayer@gmail.com,,0,false,true,false
+Carlos,Ximenes,,,,gavilanez1@hotmail.com,,0,false,true,false
+George,Hagler,,,,ghagler3@gatech.edu,,0,false,true,false
+Gi Won,Kim,,,,gkim0109@gmail.com,,0,false,true,false
+Gracey,Lin,,,,gliu37@gatech.edu,,0,false,true,false
+Greg,Smith,,,,gsmith73@students.kennesaw.edu,,0,false,true,false
+Gerin,Willams,,,,gwilliams42@gatech.edu,,0,false,true,false
+Hannah,Oermann,,,,hannahoermann@gatech.edu,,0,false,true,false
+Harshal,Desai,,,,harshd@bellsouth.net,,0,false,true,false
+Hasnain,Hyder,,,,hasnainhyder1@gmail.com,,0,false,true,false
+Anna,Arnau,,,,hattiearnau@gmail.com,,0,false,true,false
+Hannah,Clement,,,,hclement3@gatech.edu,,0,false,true,false
+Helen,Huck,,,,helen.huck@gmail.com,,0,false,true,false
+Hamid,Habib,,,,hhabib6@gatech.edu,,0,false,true,false
+Hannah,Sells,,,,hsells3@gatech.edu,,0,false,true,false
+Hassaa,Shafqat,,,,hshafqat94@gatech.edu,,0,false,true,false
+Ian,Green,,,,igreen095@gmail.com,,0,false,true,false
+Jacob,Anderson,,,,jacobtnt@hotmail.com,,0,false,true,false
+Jackie,Oliver,,,,jacquelyn_oliver@yahoo.com,,0,false,true,false
+James,Paine,,,,james.c.paine@gmail.com,,0,false,true,false
+John,Anderson,,,,janderson43@gatech.edu,,0,false,true,false
+Malui,Jani,,,,jani.malvi@gmail.com,,0,false,true,false
+Jared,Quinn,,,,jared.quinn@gmail.com,,0,false,true,false
+jaron,Gao,,,,jaron.yao@gmail.com,,0,false,true,false
+Johnathan,Brame,,,,jbrame6@gatech.edu,,0,false,true,false
+Matt,Choi,,,,jchoi3@gatech.edu,,0,false,true,false
+Jeffrey,Miller,,,,jdmillerinc@gmail.com,,0,false,true,false
+Jeff,Chesnut,,,,jeff.chesnutt@yahoo.com,,0,false,true,false
+Jeff,Boghosian,,,,jeff_boghosian@hotmail.com,,0,false,true,false
+Jemma,Gray,,,,jemmamarie01@yahoo.com,,0,false,true,false
+Jessica,Durden,,,,jessdurden@gatech.edu,,0,false,true,false
+jessica,phillips,,,,jessica.phillips@gmail.com,,0,false,true,false
+Julie,Filipek,,,,jfilipek24@gmail.com,,0,false,true,false
+John,Hak,,,,jhale9@gatech.edu,,0,false,true,false
+Jermiah,Hearon,,,,jhearon3@gatech.edu,,0,false,true,false
+Joshua,Friedberg,,,,jjfriedberg@gmail.com,,0,false,true,false
+Ji-Won,Jung,,,,jjung75@gatech.edu,,0,false,true,false
+James,Kepner,,,,jkepner3@gatech.edu,,0,false,true,false
+Jennifer,Laws,,,,jlaws6@gatech.edu,,0,false,true,false
+Justin,McCart,,,,jmccar17@students.kennesaw.edu,,0,false,true,false
+Wexey,Mitchell,,,,jmitch69@students.kennesaw.edu,,0,false,true,false
+John,Walsh,,,,jmwalsh86@yahoo.com,,0,false,true,false
+Jeremy,Nichols,,,,jnichols35@gatech.edu,,0,false,true,false
+Joseph,Powers,,,,joe.powers@gatech.edu,,0,false,true,false
+John,McKenzie,,,,john.mckenzie@bobcats.gcsu.edu,,0,false,true,false
+Johnathon,Gordon,,,,jonathangordon@live.com,,0,false,true,false
+Joshua,Hale,,,,joshua.hale@gmail.com,,0,false,true,false
+Jarrod,Pellissier,,,,jp11e3@bellsouth.net,,0,false,true,false
+John,Rogers,,,,jrogers34@student.gsu.edu,,0,false,true,false
+Joseph,Rossi,,,,jrossi6@gatech.edu,,0,false,true,false
+Jackie,Sample,,,,jsample3@gatech.edu,,0,false,true,false
+Jordan,Ford,,,,Jsford.byu@gmail.com,,0,false,true,false
+Julianne,Burch,,,,julianneburch@gmail.com,,0,false,true,false
+Justin,Bedenbaugh,,,,justin.bedenbaugh@gmail.com,,0,false,true,false
+Joey,Weaver,,,,jweaver44@gatech.edu,,0,false,true,false
+Jesse,Zhao,,,,jzhao@gatech.edu,,0,false,true,false
+Jonathan,Hill,,,,j_hill@gatech.edu,,0,false,true,false
+Katherine,Louis,,,,katherine.louis@gmail.com,,0,false,true,false
+Katie,Holloway,,,,katieholloway13@gmail.com,,0,false,true,false
+Katheryne,Castro,,,,kcastro2@students.kennesaw.edu,,0,false,true,false
+Kenan,Overton,,,,kenan.overton@gmail.com,,0,false,true,false
+Ken,Maneley,,,,kenpatti@aol.com,,0,false,true,false
+Kevin,Brandy,,,,kevin@bandydesign.com,,0,false,true,false
+Korbin,Graves,,,,kgraves8@gatech.edu,,0,false,true,false
+Kimberly,Hollis,,,,khollis3@gatech.edu,,0,false,true,false
+Chris,Kielhorn,,,,kielhorn03@gmail.com,,0,false,true,false
+Kevin,Oyler,,,,koyler3@gatech.edu,,0,false,true,false
+Kyle,Remley,,,,kremley3@gatech.edu,,0,false,true,false
+Kristen,Lawrence,,,,Kristen.e.lawrence@gmail.com,,0,false,true,false
+Kanal,Shaparia,,,,kunalshap58@gmail.com,,0,false,true,false
+Lorelyn,Kilby,,,,l.kilby@gatech.edu,,0,false,true,false
+Lauren,Conner,,,,lconner7@gatech.edu,,0,false,true,false
+David,Douglas,,,,ldouglas3@gatech.edu,,0,false,true,false
+Marissa,Lee,,,,leemarissa52@yahoo.com,,0,false,true,false
+Michael,Huang,,,,lhuang3@gatech.edu,,0,false,true,false
+Lila,Fowler,,,,lilafowler22@yahoo.com,,0,false,true,false
+Lisa,Kener,,,,lisa.kener@me.com,,0,false,true,false
+Lindsey,Peterka,,,,lpeterka3@gatech.edu,,0,false,true,false
+Leo,Prinzi,,,,lprinzi3@gatech.edu,,0,false,true,false
+Louis,Raffaele,,,,lraffaele3@gatech.edu,,0,false,true,false
+Logan,Reed,,,,lreed5593@gmail.com,,0,false,true,false
+Lanne,Street,,,,lstreet93@gmail.com,,0,false,true,false
+Lindsey,Cooke,,,,lwcooke@gatech.edu,,0,false,true,false
+Michael,Abrahamson,,,,mabrahamson3@gatech.edu,,0,false,true,false
+Mala,Morjaria,,,,mala.morjaria@gmail.com,,0,false,true,false
+Marcel,Albrecht,,,,malbrecht3@gatech.edu,,0,false,true,false
+Kristin,Najjar,,,,marieinajar@yahoo.com,,0,false,true,false
+Mariel,Hiemstra,,,,mariel.hiemstra@gmail.com,,0,false,true,false
+Mark,Davis,,,,Markdavis@gmail.com,,0,false,true,false
+Mary,Mayfield,,,,maryamayfield@gmail.com,,0,false,true,false
+Heinrich,Matzinger,,,,matzi@math.gatech.edu,,0,false,true,false
+Maura,McCook,,,,maura.mccook@gmail.com,,0,false,true,false
+Marco,Bonduel,,,,mbonduel3@gatech.edu,,0,false,true,false
+Marisa,Casola,,,,mcasola3@gatech.edu,,0,false,true,false
+John,McCuan,,,,mccuan@math.gatech.edu,,0,false,true,false
+Matt,Connors,,,,mconnors6@gatech.edu,,0,false,true,false
+Michael,Dillon,,,,mdillon7@gatech.edu,,0,false,true,false
+Nan,Dooley,,,,mdooleyname@yahoo.com,,0,false,true,false
+Michael,Ehmann,,,,mehmann3@gatech.edu,,0,false,true,false
+Melani,Cols,,,,melaniekcols@yahoo.com,,0,false,true,false
+Molly,Waller,,,,mgym220@bellsouth.net,,0,false,true,false
+Maylee,Hackney,,,,mhackne5@students.kennesaw.edu,,0,false,true,false
+Michael,Vaughon,,,,mickelv66@gmail.com,,0,false,true,false
+Michael,Reid,,,,mikedotreid@gmail.com,,0,false,true,false
+Michael,Short,,,,mikhal_short@yahoo.com,,0,false,true,false
+Mingie,Song,,,,mingiesong@gmail.com,,0,false,true,false
+Michael,Barrett,,,,mjbarrettiv@gmail.com,,0,false,true,false
+Manav,Kothari,,,,mkothari8@gatech.edu,,0,false,true,false
+Michael,Limon,,,,mlimon3@gatech.edu,,0,false,true,false
+Emily,Littrell,,,,mlittrell3@gatech.edu,,0,false,true,false
+Gwin,Marrett,,,,mmarett3@gatech.edu,,0,false,true,false
+Michael,Morgan,,,,mmorgan39@gatech.edu,,0,false,true,false
+Michael,Mosgrove,,,,mmosgrove3@gmail.com,,0,false,true,false
+Michael,Parque,,,,mmp23456@gmail.com,,0,false,true,false
+Elham,Nickel,,,,mnickel513@gmail.com,,0,false,true,false
+Molly,Evetts,,,,mollyevetts@yahoo.com,,0,false,true,false
+Molly,Parker,,,,mollyparker91@gmail.com,,0,false,true,false
+Mackenzie,Prestera,,,,mprestera3@gatech.edu,,0,false,true,false
+Mick,Stapleton,,,,mstapleton6@gatech.edu,,0,false,true,false
+Mary,Thumaty,,,,mthumaty3@gatech.edu,,0,false,true,false
+Michael,Vo,,,,mvo7@gatech.edu,,0,false,true,false
+Matthew,Williams,,,,mwilliams45@gatech.edu,,0,false,true,false
+Nathan,Anderson,,,,nanderson2014@gmail.com,,0,false,true,false
+Nathaniel,Le,,,,nathaniel3@gatech.edu,,0,false,true,false
+Pooja,Rao,,,,nghs_pooja_rao@yahoo.com,,0,false,true,false
+Naser,Ibrahim,,,,nibrahim3@gatech.edu,,0,false,true,false
+Nichlos,Incardone,,,,nichlos@gatech.edu,,0,false,true,false
+Natalie,Moise,,,,nmoise@students.kennesaw.edu,,0,false,true,false
+Norwood,Dennis,,,,nrdennis@gatech.edu,,0,false,true,false
+Nathan,O'Connor,,,,onoconnor@gmail.com,,0,false,true,false
+Paige,Holbrook,,,,paigeholbrook@comcast.net,,0,false,true,false
+Patrick,Chen,,,,pchen36@gatech.edu,,0,false,true,false
+Kelly,Nguyen,,,,Petachic@yahoo.com,,0,false,true,false
+Peter,Bailey,,,,petermb4@gatech.edu,,0,false,true,false
+Peyton,Dent,,,,peyton.dent@gmail.com,,0,false,true,false
+Philip,Johnson,,,,philip_johnson@live.com,,0,false,true,false
+Paige,Hoerle,,,,phoerle3@gatech.edu,,0,false,true,false
+Pranay,Mishra,,,,pmishra8@gatech.edu,,0,false,true,false
+Pratik,Deshpande,,,,pratik661@gmail.com,,0,false,true,false
+Philip,Swallace,,,,pswallace@earthlink.net,,0,false,true,false
+Pixin,Wang,,,,pwang4@students.kennesaw.edu,,0,false,true,false
+Quinton,Snowden,,,,quintons2@gmail.com,,0,false,true,false
+Radford,Parker,,,,rad.parker@gmail.com,,0,false,true,false
+Rachel,Rogers,,,,rae995@yahoo.com,,0,false,true,false
+Raheel,Merali,,,,raheel92@gmail.com,,0,false,true,false
+Ryland,Callander,,,,rcallander3@gatech.edu,,0,false,true,false
+Rebecca,Cook,,,,rcook0654@gmail.com,,0,false,true,false
+Rickey,Davenport,,,,rdavenport6@gatech.edu,,0,false,true,false
+Ronnie,DiMaio,,,,rdimaio@students.kennesaw.edu,(678) 517-7800,2015,false,true,false
+Rehal,Kharel,,,,rehal@gatech.edu,,0,false,true,false
+Rachel,Foss,,,,rfoss3@gatech.edu,,0,false,true,false
+Rob,Grant,,,,rgrant7@gatech.edu,,0,false,true,false
+Rohan,Gupta,,,,rgupta42@gatech.edu,,0,false,true,false
+Robin,Jacob,,,,rjacob422@gmail.com,,0,false,true,false
+Rabins,Khatri,,,,rkhatri6@gatech.edu,,0,false,true,false
+Robert,Ortman,,,,rlortman@gatech.edu,,0,false,true,false
+Chase,Moon,,,,rmoon6@gatech.edu,,0,false,true,false
+Rebecca,Moyler,,,,rmoyler826@gmail.com,,0,false,true,false
+Rodney,Meadows,,,,rodney.meadows@gmail.com,,0,false,true,false
+Ryan,Pallarino,,,,rpallarino3@gatech.edu,,0,false,true,false
+Robert,Rahm,,,,Rrahm1@juno.com,,0,false,true,false
+Rob,Rife,,,,rrife3@gatech.edu,,0,false,true,false
+Faith,Rogers,,,,rrogers93@gatech.edu,,0,false,true,false
+Ryan,Sartin,,,,rsartinga@charter.net,,0,false,true,false
+Robert,Stone,,,,rstone13@students.kennesaw.edu,,0,false,true,false
+Emily,Russell,,,,russellemily@comcast.net,,0,false,true,false
+Ryan,Winter,,,,ryan.n.winter@gmail.com,,0,false,true,false
+Gabrel,Auyeung,,,,saberthief@gmail.com,,0,false,true,false
+Shakio,Ahmed,,,,sahmed36@gatech.edu,,0,false,true,false
+Saifullah,Malik,,,,saifullah_malik@hotmail.com,,0,false,true,false
+Steven,Isaacs,,,,saisaacs.csu@gmail.com,,0,false,true,false
+Stephanie,Biercewicz,,,,sbiercewicz3@gmail.com,,0,false,true,false
+Matthew,Schumann,,,,schumann@gmail.com,,0,false,true,false
+Scott,Kliny,,,,scottwkling@gmail.com,,0,false,true,false
+Andrew,Long,,,,sdslugger9@yahoo.com,,0,false,true,false
+Sean,Sims,,,,sean.m.sims@gmail.com,,0,false,true,false
+James,Bearden,,,,senor14@yahoo.com,,0,false,true,false
+Stuart,Gardner,,,,sgardn12@students.kennesaw.edu,,0,false,true,false
+Shane,Gizzi,,,,sggizzi@gmail.com,,0,false,true,false
+Sean,Holmes,,,,sh643dp@gmail.com,,0,false,true,false
+Sham,Ali,,,,shamsherali31@gmail.com,,0,false,true,false
+Shiza,Pasha,,,,shiza.pasha@gmail.com,,0,false,true,false
+Shyam,Desai,,,,shyamjdesai@gmail.com,,0,false,true,false
+Said,Kadadu,,,,skadadu3@gatech.edu,,0,false,true,false
+Samson,Lai,,,,slai6@gatech.edu,,0,false,true,false
+Sean,Latif,,,,slatif7@gmail.com,,0,false,true,false
+Shomari,Wiley,,,,smacky770@yahoo.com,,0,false,true,false
+Samantha,McDonald,,,,smcdon31@students.kennesaw.edu,,0,false,true,false
+Elijah,Smith,,,,socgt114@yahoo.com,,0,false,true,false
+Sohahn,Akhtar,,,,sohahnakhtar@yahoo.com,,0,false,true,false
+Luke,Lane,,,,soulborn@gmail.com,,0,false,true,false
+Scott,Prombo,,,,sprombo3@gatech.edu,,0,false,true,false
+Scott,Renner,,,,srenner7@gatech.edu,,0,false,true,false
+Samuel,Thomas,,,,Srthom2534@northgeorgia.edu,,0,false,true,false
+Steven,Schnuelle,,,,sschnuelle3@gmail.com,,0,false,true,false
+Sarah,Schulte,,,,sschulte3@gatech.edu,,0,false,true,false
+Somil,Shah,,,,sshah330@gatech.edu,,0,false,true,false
+Sabria,Struthers,,,,sstruthers3@gatech.edu,,0,false,true,false
+Charlotte,Steininger,,,,steininger.charlotte@yahoo.com,,0,false,true,false
+Stephen,Fap,,,,stevedude@bellsouth.net,,0,false,true,false
+Steven,Wojcio,,,,steven41292@gmail.com,,0,false,true,false
+Stuart,Gamblin,,,,stuartgamblin@yahoo.com,,0,false,true,false
+Sujit,Gang,,,,sujitgang@gatech.edu,,0,false,true,false
+Sarthak,Vaish,,,,svaish6@gatech.edu,,0,false,true,false
+Sang,Kim,,,,swk6086@yahoo.com,,0,false,true,false
+Taggart,Bowen-Gaddy,,,,taggartbg@gmail.com,,0,false,true,false
+Tami,Kim,,,,tamikim323@gmail.com,,0,false,true,false
+Tapan,Asgaankar,,,,tapanasg1311@gmail.com,,0,false,true,false
+Taylor,Medford,,,,taylormedford@gatech.edu,,0,false,true,false
+Tyrone,Bentson,,,,tbenton3@gatech.edu,,0,false,true,false
+Taylor,Bradley,,,,tbradley30@gatech.edu,,0,false,true,false
+Tim,Daughtry,,,,tdaughtry3@gmail.com,,0,false,true,false
+Tammy,Diehl,,,,tdiehl3@gatech.edu,,0,false,true,false
+Thomas,Dugan,,,,tdugan3@gatech.edu,,0,false,true,false
+Tim,Harrison,,,,tgharrison93@gmail.com,,0,false,true,false
+Tejas,Hiremath,,,,thejas90@gmail.com,,0,false,true,false
+Cory,Thrower,,,,thrower93@gmail.com,,0,false,true,false
+Tim,Cook,,,,tim.cook@gatech.edu,,0,false,true,false
+Tim,Alcorn,,,,timalcorn13@yahoo.com,,0,false,true,false
+Tori,McKinney,,,,tmckinney7@gatech.edu,,0,false,true,false
+Tuan,Nguyen,,,,tnguyen306@gatech.edu,,0,false,true,false
+Thomas,Loalbo,,,,tommy.loalbo@gmail.com,,0,false,true,false
+Torus,Washington,,,,torus7w@gatech.edu,,0,false,true,false
+Taylor,Pruitt,,,,tp10baseball@yahoo.com,,0,false,true,false
+Tanish,Himani,,,,traider77@gmail.com,,0,false,true,false
+Travis,Horsley,,,,trhorsley@gmail.com,,0,false,true,false
+Thomas,Spencer,,,,tspencer6@gatech.edu,,0,false,true,false
+Tianle,Young,,,,tyoung46@gmail.com,,0,false,true,false
+Mark,Rearden,,,,ulysses22.mr@gmail.com,,0,false,true,false
+Victor,Baldwin,,,,vbaldwin3@gmail.com,,0,false,true,false
+Vaibhav,Gupta,,,,vgupta45@gatech.edu,,0,false,true,false
+Vivek,Kothari,,,,vkothari3@gatech.edu,,0,false,true,false
+Wayne,Lee,,,,wayne923@gatech.edu,,0,false,true,false
+Weston,Landis,,,,weston_landis@yahoo.com,,0,false,true,false
+Whitney,Ridings,,,,whitney.ridings@yahoo.com,,0,false,true,false
+Mark,Faubion,,,,whocares@gmail.com,,0,false,true,false
+William,McCaffrey,,,,wmccaffrey3@gatech.edu,,0,false,true,false
+Chris,Versteeg,,,,wrestlenrun@yahoo.com,,0,false,true,false
+Will,Walker,,,,wwalker30@gatech.edu,,0,false,true,false
+James,Hartnett,,,,yankeedieheart96@rocketmail.com,,0,false,true,false
+Yam-Sung,Cheng,,,,ycheng61@gatech.edu,,0,false,true,false
+Wintana,Habtezghi,,,,yonilove4@gmail.com,,0,false,true,false
+Zain,Arif,,,,zarif3@gatech.edu,,0,false,true,false
+Zhiwei,Chen,,,,zchen87@gatech.edu,,0,false,true,false
+Zeeshan,Qamruddin,,,,zeeqam@yahoo.com,,0,false,true,false
+Mary-Anna,Bowen,,,,zemowen@gmail.com,,0,false,true,false
+David,Zwick,,,,zwickdd@yahoo.com,,0,false,true,false
+Gregory,Puckett,,,,gregory.puckett@gmail.com,,0,false,true,false
+Patrick,Slane,,,,pslane3@gatech.edu,,0,false,true,false
+Ayinna,Onwuzuruigbo,,,,ayinnaonwu@gmail.com,,0,false,true,false
+Amanda,Luce,,,,luce.amanda@gmail.com,,0,false,true,false
+Andrew,Wirt,,,,awirt3@gatech.edu,,0,false,true,false
+Marissa,Clark,,,,mclark75@gatech.edu,,0,false,true,false
+Bridget,Nabb,,,,bridget.nabb@gmail.com,,2017,false,true,false
+Marian,Fuller,,,,mfuller8@gatech.edu,,0,false,true,false
+Austin,Bassett,,,,ajbassett49@yahoo.com,,0,false,true,false
+Chris,Elliott,,,,chris01085@gmail.com,,0,false,true,false
+Hasi,Tiwari,,,,htiwari@gatech.edu,,0,false,true,false
+Taylor,Hawley,,,,thawley3@gatech.edu,,0,false,true,false
+Ky,Lee,,,,KY.LEE@gatech.edu,,0,false,true,false
+Drew,Humphrey,,,,drewhumphrey@me.com,(317) 919-4222,2018,false,true,false
+Mark,Russell,,,,mark.russell1093@gmail.com,(919) 323-0892,0,false,true,false
+James,Tran,,,,jatran@gatech.edu,(678) 983-4527,0,false,true,false
+Vincent Micah,Bray,,,,vmicahbray96@gmail.com,(912) 856-1897,0,false,true,false
+Miguel,Rehder,,,,miguelrehder@gmail.com,(404) 940-7802,0,false,true,false
+Snigdha,--,,,,snigdhac85@gmail.com,,0,false,true,false
+Deepa,Mohan,,,,mohan.deepa@yahoo.com,,0,false,true,false
+Shifani,--,,,,mshifani92@gmail.com,,0,false,true,false
+Rasika,Subramanian,,,,rasika_subramanian@gatech.edu,,0,false,true,false
+Preet,Dulla,,,,preetdulla@gatech.edu,(561) 350-1559,0,false,true,false
+Renato,Maues,,,,renato.l.maues@gatech.edu,(404) 740-3321,0,false,true,false
+Neel,Shah,,,,nshah93@gatech.edu,,0,false,true,false
+Jackson,Cook,,,,jacksonrocks1@yahoo.com,(678) 463-8762,0,false,true,false
+Ben,Gutman,,,,benjamin.gutman@gmail.com,(404) 643-8316,0,false,true,false
+Grace,Goodheart,,,,ggoodheart3@gatech.edu,(678) 972-8925,2015,false,true,false
+Thomas,Gentle,,,,tg2434@gmail.com,(404) 790-8664,0,false,true,false
+Hank,Miles,,,,hmiles3@gatech.edu,(912) 656-8706,0,false,true,false
+Gabriel,Gattis,,,,ggattis3@gatech.edu,,0,false,true,false
+Judea,Nifong,,,,jnifong@gatech.edu,,0,false,true,false
+Timothy,Mcpherson,,,,tmcpherson3@gatech.edu,,0,false,true,false
+Paul,Baity,,,,pbaity3@gatech.edu,,0,false,true,false
+Timothy-Allen,Brewington,,,,brewington@gatech.edu,,0,false,true,false
+Marcus,Chavis,,,,marcusallen26@gatech.edu,(404) 767-3477,0,false,true,false
+Kenneth,Chester,,,,kchester3@gatech.edu,(770) 713-1248,0,false,true,false
+Michael,Delashmit,,,,michael.delashmit@gatech.edu,,0,false,true,false
+Ryan,Gentes,,,,rgentes@gatech.edu,(912) 224-7926,0,false,true,false
+Kristen,Greig,,,,kgreig3@gatech.edu,,0,false,true,false
+Ryan,Hooper,,,,ryan.hooper@gatech.edu,(404) 210-5055,0,false,true,false
+Brandon,Horsley,,,,floobguy88@gatech.edu,(770) 596-8747,0,false,true,false
+Blake,Israel,,,,blake.israel@gatech.edu,,0,false,true,false
+Patrick,Marcacci,,,,pmarcacci@gatech.edu,(770) 617-6672,0,false,true,false
+Mihir,Pathar,,,,mihir@gatech.edu,(610) 883-1468,0,false,true,false
+Anna,Perry,,,,aperry3@gatech.edu,(706) 207-0965,0,false,true,false
+Peter,Vaughan,,,,petermvaughan@gatech.edu,,0,false,true,false
+Chris,Wallis,,,,cwallis3@gatech.edu,,0,false,true,false
+R.,Whelen,,,,rwhelen@gatech.edu,,0,false,true,false
+R.,Taylor,,,,rtaylor48@gatech.edu,,0,false,true,false
+Anderson,Anderson,,,,cressel@gatech.edu,,0,false,true,false
+Alex,Barberie,,,,barberino89@gatech.edu,,0,false,true,false
+Vanessa,Nevarez,,,,vnevarez3@gatech.edu,,0,false,true,false
+Abby,Spencer,,,,aspencer3@gatech.edu,(770) 324-3463,0,false,true,false
+Derek,Greene,,,,greenethemarine@gatech.edu,,0,false,true,false
+Shuo,Qian,,,,shuoqian@gatech.edu,,0,false,true,false
+Danielle,Mccurdy,,,,dmccurdy3@gatech.edu,(229) 559-3380,0,false,true,false
+Daniel,Mendoza,,,,dmendoza3@gatech.edu,(678) 559-9235,0,false,true,false
+Matthew,King,,,,mking36@gatech.edu,(678) 642-5870,0,false,true,false
+David,Noble,,,,dnoble@gatech.edu,,0,false,true,false
+Patti,Willig,,,,jwillig3@gatech.edu,,0,false,true,false
+Emily,Fincher,,,,efincher3@gatech.edu,,0,false,true,false
+Anita,Hemrick,,,,ahemrick3@gatech.edu,(770) 619-4338,0,false,true,false
+Charles,Minkoff,,,,michael.minkoff@gatech.edu,,0,false,true,false
+Daniel,Akins,,,,dakins3@gatech.edu,,0,false,true,false
+Jeff,Clark,,,,j.clark@gatech.edu,,0,false,true,false
+J.,Meyer,,,,jmeyer7@gatech.edu,,0,false,true,false
+C.,Burge,,,,cburge3@gatech.edu,,0,false,true,false
+Robert,Eager,,,,robert.eagar@gatech.edu,,0,false,true,false
+John,Fuller,,,,john.fuller@gatech.edu,,0,false,true,false
+Cameron,Stewart,,,,cstewart30@gatech.edu,,0,false,true,false
+Toby,Tatum,,,,tobytatum@gatech.edu,,0,false,true,false
+Chad,Thamse,,,,cthames3@gatech.edu,,0,false,true,false
+David,Wilkes,,,,dgwilkes@gatech.edu,,0,false,true,false
+John,Wright Jr.,,,,jwright@gatech.edu,,0,false,true,false
+Matt,McMullen,,,,mbatesmcmullen@gmail.com,,0,false,true,false
+Phillip,Wiggins,,,,pwiggins97@gmail.com,,0,false,true,false
+Frank,Malice,,,,fmalice12@gmail.com,,0,false,true,false
+Andy,Neff,,,,a.neff167@gmail.com,(773) 322-6737,2020,false,true,false
+Joselyn,Ray,,,,jray41@gatech.edu,,0,false,true,false
+Nick,Riccardelli,,,,riccardn06@gmail.com,(631) 599-9273,2020,false,true,false
